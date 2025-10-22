@@ -34,17 +34,17 @@ Employee Management System with full CRUD, validation, and exception handling.
 ## Setup
 
 1. Clone the repository:  
-```bash
+
 git clone <your-repo-url>
 Navigate to the project folder:
 
-bash
+
 cd employee-management-system
 Run the application:
 
-bash
+
 ./mvnw spring-boot:run
 Access the API at:
 
-bash
+
 http://localhost:8080/employees
